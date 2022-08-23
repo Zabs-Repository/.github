@@ -18,12 +18,14 @@
 ## 1. School-project
 
 *EE*
-1. Webbserverprogrammering 1  -  Aug 23, 2018  >  May 29, 2019
+1. Webbserverprogrammering 1 - "  https://github.com/Zabs-Repository/wsp1_simonM  "                  -  Aug 23, 2018  >  May 29, 2019
 
 *DEVOPS*
-2. Java_Assignment.1-2_EC     -  Sep 11, 2020  >  Sep 23, 2020
-3. Java_Assignment.3_EC       -  Sep 28, 2020  >  Oct  5, 2020
-4.    
+
+2. Java_Assignment.1-2_EC   -   "  https://github.com/Zabs-Repository/Java_Assignment.1-2_EC  "      -  Sep 11, 2020  >  Sep 23, 2020
+3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC    "      -  Sep 28, 2020  >  Oct  5, 2020
+4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1     "
+5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2     "
 
 
 ## 2. Hobby-project
