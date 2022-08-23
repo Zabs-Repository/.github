@@ -24,8 +24,9 @@
 
 2. Java_Assignment.1-2_EC   -   "  https://github.com/Zabs-Repository/Java_Assignment.1-2_EC  "      -  Sep 11, 2020  >  Sep 23, 2020
 3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC    "      -  Sep 28, 2020  >  Oct  5, 2020
-4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1     "
-5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2     "
+4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1     "      -  Nov 25, 2020  >  Dec  2, 2020  
+5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2     "      -  Dec  2, 2020  >  Dec 14, 2020
+6.  
 
 
 ## 2. Hobby-project
