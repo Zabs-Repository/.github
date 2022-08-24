@@ -34,6 +34,8 @@
 11. Vecka 17 Måndag 9-16 - Vecka 18 Fredag 23:55 
 12. Vecka 19 Måndag 9-16 - Vecka 21 Fredag 23:55 h2
 13. Vecka 20 Måndag 9-16 - Vecka 23 Fredag Deadline projekarbete 
+14.Måndag 21.08.23 - 2021-09-05
+15. 2021-09-26 - Söndag 21.09.05 
 
 
 
