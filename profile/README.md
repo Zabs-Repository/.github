@@ -37,6 +37,8 @@
 14.Måndag 21.08.23 - 2021-09-05
 15. 2021-09-26 - Söndag 21.09.05 
 
+Kursvecka3måndagFörmiddag: Genomgånginlämningsuppgift - Kursvecka4onsdagFörmiddag:Deadlineinlämmningsuppgift
+Kursvecka5måndagFörmiddag:GenomgångProjektarbete - Kursvecka7Torsdag
 
 
 ## 2. Hobby-project
