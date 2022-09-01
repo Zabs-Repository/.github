@@ -36,8 +36,5 @@
 13. Steve_webb              -   " https://github.com/Zabs-Repository/Steve_webb "                                -     May 20, 2021  >  Jun 11, 2021
 14. H2Docker                -   " https://github.com/Zabs-Repository/H2Docker "                                  -     Aug 23, 2021 > Sep 05, >  Sep 26, 2021
 
-Kursvecka3måndagFörmiddag: Genomgånginlämningsuppgift - Kursvecka4onsdagFörmiddag:Deadlineinlämmningsuppgift
-Kursvecka5måndagFörmiddag:GenomgångProjektarbete - Kursvecka7Torsdag
-
 
 ## 2. Hobby-project
