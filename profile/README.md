@@ -33,9 +33,8 @@
 10. Automationsramverk_jenksAnsible    "https://github.com/Zabs-Repository/Automationsramverk_jenksAnsible  "    -     Mar 31, 2021  >  Apr 16, 2021
 11. Automationsramverk_C1C0 -   " https://github.com/Zabs-Repository/Automationsramverk_C1C0  "                  -     Apr 26, 2021  >  May 07, 2021
 12. Webb_for_STEVE_CICD     -   " https://github.com/Zabs-Repository/Webb_for_STEVE_CICD "                       -     May 10, 2021  >  May 28, 2021
-13. Vecka 20 Måndag 9-16 - Vecka 23 Fredag Deadline projekarbete 
-14.Måndag 21.08.23 - 2021-09-05
-15. 2021-09-26 - Söndag 21.09.05 
+13. Steve_webb              -   " https://github.com/Zabs-Repository/Steve_webb "                                -     May 20, 2021  >  Jun 11, 2021
+14. H2Docker                -   " https://github.com/Zabs-Repository/H2Docker "                                  -     Aug 23, 2021 > Sep 05, >  Sep 26, 2021
 
 Kursvecka3måndagFörmiddag: Genomgånginlämningsuppgift - Kursvecka4onsdagFörmiddag:Deadlineinlämmningsuppgift
 Kursvecka5måndagFörmiddag:GenomgångProjektarbete - Kursvecka7Torsdag
