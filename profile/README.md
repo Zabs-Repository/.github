@@ -22,17 +22,17 @@
 
 *DEVOPS*
 
-2. Java_Assignment.1-2_EC   -   "  https://github.com/Zabs-Repository/Java_Assignment.1-2_EC   "      -  Sep 11, 2020  >  Sep 23, 2020
-3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC     "      -  Sep 28, 2020  >  Oct 05, 2020
-4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1      "      -  Nov 25, 2020  >  Dec 02, 2020  
-5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2      "      -  Dec  2, 2020  >  Dec 14, 2020
-6. Projekt_Linux-och-Skript -   "  https://github.com/Zabs-Repository/Projekt_Linux-och-Skript "      -  Dec 16, 2020  >  Dec 29, 2020
-7. GIT_lerning              -   " https://github.com/Zabs-Repository/GIT_lerning               "      -  Jan, 4  2021  >  Jan 08, 2021
-8. V4 Onsdag 27/1 - V5 Fredag 7/2 - " " - Jan, 21 2021 > Feb, 07 2021
-9. V7 Måndag 15/2 - V7 19/2 
-10. V13 Lektion 4 (31/3) - V15 Egenstudier (16/4)
-11. Vecka 17 Måndag 9-16 - Vecka 18 Fredag 23:55 
-12. Vecka 19 Måndag 9-16 - Vecka 21 Fredag 23:55 h2
+2. Java_Assignment.1-2_EC   -   "  https://github.com/Zabs-Repository/Java_Assignment.1-2_EC   "                 -     Sep 11, 2020  >  Sep 23, 2020
+3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC     "                 -     Sep 28, 2020  >  Oct 05, 2020
+4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1      "                 -     Nov 25, 2020  >  Dec 02, 2020  
+5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2      "                 -     Dec 02, 2020  >  Dec 14, 2020
+6. Projekt_Linux-och-Skript -   "  https://github.com/Zabs-Repository/Projekt_Linux-och-Skript "                 -     Dec 16, 2020  >  Dec 29, 2020
+7. GIT_lerning              -   " https://github.com/Zabs-Repository/GIT_lerning               "                 -     Jan 04, 2021  >  Jan 08, 2021
+8. National_Bank_of_Linux_DATABASE - " https://github.com/Zabs-Repository/National_Bank_of_Linux__DATABASE "     -     Jan 21, 2021  >  Feb 07, 2021
+9. DB_assignment2_IN_LINUX  -   " https://github.com/Zabs-Repository/DB_assignment2_IN_LINUX  "                  -     Feb 15, 2021  >  Feb 19, 2021 
+10. Automationsramverk_jenksAnsible    "https://github.com/Zabs-Repository/Automationsramverk_jenksAnsible  "    -     Mar 31, 2021  >  Apr 16, 2021
+11. Automationsramverk_C1C0 -   " https://github.com/Zabs-Repository/Automationsramverk_C1C0  "                  -     Apr 26, 2021  >  May 07, 2021
+12. Vecka 19 Måndag 9-16 - Vecka 21 Fredag 23:55                                               May 10, 2021 > May 28, 2021
 13. Vecka 20 Måndag 9-16 - Vecka 23 Fredag Deadline projekarbete 
 14.Måndag 21.08.23 - 2021-09-05
 15. 2021-09-26 - Söndag 21.09.05 
