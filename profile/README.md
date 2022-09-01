@@ -23,12 +23,12 @@
 *DEVOPS*
 
 2. Java_Assignment.1-2_EC   -   "  https://github.com/Zabs-Repository/Java_Assignment.1-2_EC   "      -  Sep 11, 2020  >  Sep 23, 2020
-3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC     "      -  Sep 28, 2020  >  Oct  5, 2020
-4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1      "      -  Nov 25, 2020  >  Dec  2, 2020  
+3. Java_Assignment.3_EC     -   "  https://github.com/Zabs-Repository/Java_Assignment.3_EC     "      -  Sep 28, 2020  >  Oct 05, 2020
+4. Python_Assignment.1      -   "  https://github.com/Zabs-Repository/Python_Assignment.1      "      -  Nov 25, 2020  >  Dec 02, 2020  
 5. Python_Assignment.2      -   "  https://github.com/Zabs-Repository/Python_Assignment.2      "      -  Dec  2, 2020  >  Dec 14, 2020
 6. Projekt_Linux-och-Skript -   "  https://github.com/Zabs-Repository/Projekt_Linux-och-Skript "      -  Dec 16, 2020  >  Dec 29, 2020
 7. GIT_lerning              -   " https://github.com/Zabs-Repository/GIT_lerning               "      -  Jan, 4  2021  >  Jan 08, 2021
-8. V4 Onsdag 27/1 - V5 Fredag 7/2 
+8. V4 Onsdag 27/1 - V5 Fredag 7/2 - " " - Jan, 21 2021 > Feb, 07 2021
 9. V7 Måndag 15/2 - V7 19/2 
 10. V13 Lektion 4 (31/3) - V15 Egenstudier (16/4)
 11. Vecka 17 Måndag 9-16 - Vecka 18 Fredag 23:55 
