@@ -37,4 +37,12 @@
 14. H2Docker                -   " https://github.com/Zabs-Repository/H2Docker "                                  -     Aug 23, 2021 > Sep 05, >  Sep 26, 2021
 
 
+*DEVSECOPS*
+
+Exercise:
+
+CI/CD:
+
+2. KYH-Github-Action-ex-1 - " https://github.com/Zabs-Repository/KYH-Github-Action-ex-1 " - Jan 8, 2025 
+
 ## 2. Hobby-project
