@@ -46,4 +46,6 @@ CI/CD:
 2. KYH-Github-Action-ex-1 - " https://github.com/Zabs-Repository/KYH-Github-Action-ex-1 " - Jan 8, 2025
 3. KYH_CI-CD_Web-API - " https://github.com/Zabs-Repository/KYH_CI-CD_Web-API " - Jan 23/24, 2025
 
+- Individual Assignment: https://github.com/Zabs-Repository/KYH_WebApi_ENDE_Crypt
+
 ## 2. Hobby-project
