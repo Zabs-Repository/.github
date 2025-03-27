@@ -39,6 +39,11 @@
 
 *DEVSECOPS*
 
+SQL:
+
+Assignment:
+4. Lab 4: Konsumera web-API - " https://github.com/Zabs-Repository/Lab04_Web-API " 
+
 Exercise:
 
 CI/CD:
